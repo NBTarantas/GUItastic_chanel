@@ -1,7 +1,7 @@
 function sayHi() {
     var confDialog = window.confirm("Хочете поділитись посиланням на цю сторінку?")
   if (confDialog)
-   window.alert("Чудово! Але зверніть увагу хто не зареєстрований на порталі e-school не зможе відкрити посилання! ")
+   window.alert("Чудово!")
   else
    window.alert("Погано :(")
 }
